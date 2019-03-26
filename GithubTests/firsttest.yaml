@@ -1,0 +1,11 @@
+##################################################
+group:
+   - group_name: "AOS_Web_HTTP_HTML"
+     vusers: '5'
+     script_path: "GithubScripts\\AOS_Web_HTTP_HTML"
+     lg_name:
+	- "ALMRWC1642P-H02"
+ scheduler:
+   rampup: '15'
+   Duration: '300'
+##################################################
